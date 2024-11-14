@@ -119,7 +119,7 @@
         \li Standard support until
     \row
         \li Qt 6.8 LTS
-        \li Qt 6.8.0
+        \li Qt 6.8.1
         \li 2029-10-08
     \row
         \li Qt 6.7
@@ -131,9 +131,9 @@
         \li 2026-03-30
     \row
         \li Qt 5.15 LTS
-        \li Qt 5.15.15 (Open Source)
+        \li Qt 5.15.16 (Open Source)
 
-            Qt 5.15.17 (Commercial)
+            Qt 5.15.18 (Commercial)
         \li 2023-05-26 (Qt Legacy licenses)
 
             2025-05-26 (Qt Subscription license holders only)
@@ -152,8 +152,8 @@
         \li Standard support until
     \row
         \li \b{Qt 6.8 LTS}
-        \li Qt 6.8.0
-        \li
+        \li Qt 6.8.1
+        \li 2029-10-08
     \row
         \li \b{Qt 6.7}
         \li Qt 6.7.3
@@ -161,7 +161,7 @@
     \row
         \li \b{Qt 6.6}
         \li Qt 6.6.3
-        \li 2024-10-10
+        \li Ended (ES is available)
     \row
         \li \b{Qt 6.5 LTS}
         \li Qt 6.5.7
@@ -177,7 +177,7 @@
     \row
         \li \b{Qt 6.2 LTS}
         \li Qt 6.2.13
-        \li 2024-09-30
+        \li Ended (ES is available)
     \row
         \li Qt 6.1
         \li Qt 6.1.3
