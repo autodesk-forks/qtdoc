@@ -3,7 +3,7 @@ dependencies:
     ref: 3f519684f14238f1d5d74515f87a411369f7b75e
     required: true
   ../qtgraphs:
-    ref: 3c3b988a6949622fe72f6396b1acc71b6efb590e
+    ref: e75481f0a5313b13ae5db53494a8ba90dc6d35b0
     required: false
   ../qthttpserver:
     ref: e83d091dc062a9effd426d9bff9be5e8219ae05f
