@@ -12,7 +12,7 @@ dependencies:
     ref: 6883067b142b243184f27c161a499a6d39c2b328
     required: false
   ../qtmultimedia:
-    ref: 8dbee4bd85965191f98b0b0d69ed9eed5a3ac5c9
+    ref: b9c6f4c379d39b7bd8369c35231207972c9071cf
     required: false
   ../qtpositioning:
     ref: 9a8565dc6c94e7d7a977c0c2e8d3efd49879eca0
