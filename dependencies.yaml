@@ -3,7 +3,7 @@ dependencies:
     ref: b34fca34941ecdbf99819bbf58b45332ac9e6fa7
     required: true
   ../qtgraphs:
-    ref: 821a50e286c4ad7a26a5ddbad3cd3d5b34dbeba5
+    ref: bc6e150dbd5805526195a18d11aca8c590466755
     required: false
   ../qthttpserver:
     ref: 5aaeb8606959bad655a07ce80c9cec824c0678b8
@@ -12,7 +12,7 @@ dependencies:
     ref: 6883067b142b243184f27c161a499a6d39c2b328
     required: false
   ../qtmultimedia:
-    ref: b9c6f4c379d39b7bd8369c35231207972c9071cf
+    ref: 66812f93da86ed395bda30101ac15fda4fa501dd
     required: false
   ../qtpositioning:
     ref: 9a8565dc6c94e7d7a977c0c2e8d3efd49879eca0
