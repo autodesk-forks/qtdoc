@@ -1,31 +1,31 @@
 dependencies:
   ../qtdeclarative:
-    ref: 850cdae305401ee8ac8dc17db8797d3ba81f83f4
+    ref: 88a958228352c9a489b9c9de5e9f475e0f040f93
     required: true
   ../qtgraphs:
-    ref: 10c285df4112a69ea02a2fe8eca4192f7b02c43b
+    ref: ad8c3947e119ae4b48c5342f3bcc4460394f8828
     required: false
   ../qthttpserver:
-    ref: 9faf9249a50f578d3ce3591fbc220bb5bcb92222
+    ref: f9df6fc84748044e351f6f0b5f20c3bbfa3c66a7
     required: false
   ../qtlocation:
-    ref: fa9558d6b3d4c54479b0b0399f41f3155a1f2e80
+    ref: 2b136a823fe40a7e8533936bbabbfca6d92220de
     required: false
   ../qtmultimedia:
-    ref: a4fe8f0e187935261c60710beb71f7192312d167
+    ref: bccfd3e78c159499ac994f44aa48d3ffbfcd008a
     required: false
   ../qtpositioning:
-    ref: 0fded03c824804ec36c4c87892e9d7bfc4492f23
+    ref: 89eeaaffc4f28f3136e1f671b121a9444f3ec4c0
     required: false
   ../qtshadertools:
-    ref: 68177f41b697abd2fbb8da76a70a5166121a21f1
+    ref: 1ab42d2754a032cea0f7bf0688cb5410c61db459
     required: false
   ../qttools:
-    ref: 00c96988539e6a4b82ed7c92e9dcd12eb5086bcd
+    ref: 3db436bd65c1a5750d7fa5312ae97e4e6ce129f8
     required: true
   ../qtwebengine:
-    ref: a4622aead16b879e1b51696cd86e42945e473f66
+    ref: 16bfe00ea77ad41cd5b201867e9012544051b3bd
     required: false
   ../qtwebsockets:
-    ref: 178c64f531909eacdb6706de6192a142982bfc3d
+    ref: 0bb59ea08a952ade244a32916d0c9249e283eda6
     required: false
