@@ -51,12 +51,21 @@
 */
 
 /*!
-    \externalpage http://help.apple.com/xcode/mac/8.0/#/dev10510b1f7
-    \title Create asset catalogs and sets
+    \externalpage https://developer.apple.com/documentation/xcode/managing-assets-with-asset-catalogs/
+    \title Managing Assets with Asset Catalogs
+*/
+/*!
+    \externalpage https://developer.apple.com/documentation/xcode/specifying-your-apps-launch-screen
+    \title Specifying Your App's Launch Screen
 */
 /*!
     \externalpage https://developer.apple.com/library/content/qa/qa1686/_index.html
     \title App Icons on iPhone, iPad and Apple Watch
+*/
+
+/*!
+    \externalpage https://help.apple.com/xcode/mac/current/#/dev10510b1f7
+    \title Create asset catalogs and sets
 */
 
 /*!
@@ -749,6 +758,11 @@
 /*!
     \externalpage https://cmake.org/cmake/help/latest/prop_tgt/MACOSX_BUNDLE_INFO_PLIST.html
     \title CMake MACOSX_BUNDLE_INFO_PLIST documentation
+*/
+
+/*!
+    \externalpage https://gitlab.kitware.com/cmake/cmake/-/issues/23734
+    \title CMake iOS archiving failure issue
 */
 
 /*!
